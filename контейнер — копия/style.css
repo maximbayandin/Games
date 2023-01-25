@@ -1,0 +1,79 @@
+h1 {
+	text-align: center;
+	text-shadow: 0 0 3px black;
+	margin-top: 150px;
+
+}
+
+img {
+	width: 250px;
+	height: 275px;
+	margin-bottom: 10px;
+}
+
+a {
+	color: whitesmoke;
+	text-decoration: none;
+	font-size: 30px;
+	text-shadow: 0 0 30px black;
+	border: black 4px solid;
+	padding: 1px;
+	background: grey;
+	border-radius: 13px;
+}
+h2 {
+	font-size: 35px;
+	color: white;
+	text-shadow: 0 0 30px black;
+}
+
+body {
+	background: white;
+	text-align: center;
+}
+
+div {
+	border: black 5px solid;
+	display: inline-block;
+	text-align: center;
+	background: green;
+	padding: 5px;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+
+.Nfs {
+	color: yellow;
+}
+
+.CounterStrike {
+	color: pink;
+}
+
+.Crew {
+	color: greenyellow;
+}
+
+.Nfs_link {
+	color: yellow;
+}
+
+.CS_link {
+	color: pink;
+}
+
+.Crew_link {
+	color: greenyellow;
+}
+
+.Nfs_div {
+	background: pink;
+}
+
+.CS_div {
+	background: greenyellow;
+}
+
+.Crew_div {
+	background: yellow;
+}
